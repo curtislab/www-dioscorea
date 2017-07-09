@@ -1,0 +1,11 @@
+name: CurtisLab
+markdown: kramdown
+encoding: utf-8
+timezone: America/Los_Angeles
+baseurl: "/dioscorea"
+
+collections:
+  wikipages:
+    output: true
+  wikihubs:
+    output: true
